@@ -1,0 +1,14 @@
+body {
+    background-color: #e1d7c6;
+    font-family: sans-serif;
+}
+
+.title {
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.subhead {
+    text-align: center;
+}
