@@ -12,3 +12,9 @@ body {
 .subhead {
     text-align: center;
 }
+
+.head {
+    float: left;
+    margin-right: 40px;
+    margin-left: 40px;
+}
