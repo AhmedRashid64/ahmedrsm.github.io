@@ -9,12 +9,18 @@ body {
     text-align: center;
     font-size: 35px;
     font-weight: bold;
+    margin-top: 0px;
 }
 
 .head {
     float: right;
     margin-right: 40px;
     margin-left: 40px;
+}
+
+.headshot {
+    max-width: 350px;
+    height: auto;
 }
 
 .text-block {
