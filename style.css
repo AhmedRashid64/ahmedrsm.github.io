@@ -1,6 +1,7 @@
 body {
     background-color: #D6CADD;
     font-family: sans-serif;
+    margin-left: 40px;
 }
 
 .title {
@@ -9,12 +10,8 @@ body {
     font-weight: bold;
 }
 
-.subhead {
-    text-align: center;
-}
-
 .head {
-    float: left;
+    float: right;
     margin-right: 40px;
     margin-left: 40px;
 }
