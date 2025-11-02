@@ -19,3 +19,12 @@ body {
 .text-block {
     margin-right: 100px;
 }
+
+.caption {
+    text-align: center;
+    margin-top: 0px;
+}
+
+p {
+    line-height: 1.4;
+}
