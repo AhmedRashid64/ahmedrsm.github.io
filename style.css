@@ -24,6 +24,7 @@ body {
 .headshot {
     max-width: 350px;
     height: auto;
+    border-radius: 3%;
 }
 
 .text-block {
