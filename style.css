@@ -2,7 +2,7 @@ body {
     background-image: linear-gradient(to bottom, rgba(163, 87, 214, 1), rgba(255, 255, 255, 0));
     background-size: cover;
     background-repeat: no-repeat;
-    font-family: Garamond, sans-serif;
+    font-family: Garamond, Times, serif;
     font-size: 25px; 
     margin-left: 40px;
 }
